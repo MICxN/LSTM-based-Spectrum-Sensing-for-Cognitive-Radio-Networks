@@ -1,4 +1,4 @@
-#LSTM aided Spectrum Sensing [IEEE Access-2020 and PIMRC-2019]
+#LSTM aided Spectrum Sensing [IEEE Access-2020 and IEEE PIMRC-2019]
 
 This folder has a spectrum data (FM band) and a reproducable code for the following accepted paper in IEEE Access-2020 (copy attached) and PIMRC-2019. 
 
@@ -10,4 +10,4 @@ If you use this simulation code package in any way, please cite the above origin
 
 Copyrights reserved by the authors: Nikhil Balwani, Dhaval K. Patel (leads MICxN research lab), Brijesh Soni and Miguel López-Benítez
 
-Acknowledgement: This   work   was   supported   by   DST-UKIERI   Programme under the Grant DST/INT/UK/P-150/2016. The authors  also  thank  School of Engineering and Applied Science,  Ahmedabad  University  and University of Liverpool for the infrastructure support.
+Acknowledgement: This   work   was   supported   by   DST-UKIERI   Programme under the Grant DST/INT/UK/P-150/2016. The authors thank  School of Engineering and Applied Science,  Ahmedabad  University, India  and University of Liverpool, U.K for the infrastructure support.
