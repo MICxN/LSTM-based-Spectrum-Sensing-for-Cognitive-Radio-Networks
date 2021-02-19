@@ -2,7 +2,7 @@
 
 This folder has a spectrum data (FM band) and a reproducable code for the following accepted paper in IEEE Access-2020 (copy attached) and PIMRC-2019. 
 
-Brijesh Soni, Dhaval K. Patel and Miguel López-Benítez, "Long Short-Term Memory Based Spectrum Sensing Scheme for Cognitive Radio Using Primary Activity Statistics," in IEEE Access, vol. 8, pp. 97437-97451, 2020, doi: 10.1109/ACCESS.2020.2995633 and/or
+Brijesh Soni, Dhaval K. Patel and Miguel López-Benítez, "Long Short-Term Memory Based Spectrum Sensing Scheme for Cognitive Radio Using Primary Activity Statistics," in IEEE Access, vol. 8, pp. 97437-97451, 2020, doi: 10.1109/ACCESS.2020.2995633 [and/or]
 
 Nikhil Balwani, Dhaval K. Patel, Brijesh Soni and Miguel López-Benítez, "Long Short-Term Memory based Spectrum Sensing Scheme for Cognitive Radio," 2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), Istanbul, Turkey, 2019, pp. 1-6.
 
